@@ -1,0 +1,12 @@
+nav>ul{
+    display: flex;
+}
+li{
+    list-style: none;
+    text-decoration: none;
+    margin: 8px;
+}
+input,textarea{
+    display: block;
+    margin: 8px;
+}
